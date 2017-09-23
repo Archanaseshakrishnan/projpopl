@@ -1,7 +1,3 @@
-/*----------------------------------------------------------------------------
- Note: the code in this file is not to be shared with anyone or posted online.
- (c) Rida Bazzi, 2015, Adam Doupe, 2015
- ----------------------------------------------------------------------------*/
 
 #include <stdio.h>
 #include <stdlib.h>
